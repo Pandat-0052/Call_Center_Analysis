@@ -1,6 +1,7 @@
-# Call Center Analytics Dashboard
+# <p align ="center"> Call Center Analytics Dashboard
 
-![Call Center Analytics Dashboard](dashboard_screenshot.png)
+![Call Center Analytics Dashboard](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Part-1.JPG)
+![Call Center Analytics Dashboard](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Part-2.JPG)
 
 ## Overview
 
@@ -16,16 +17,19 @@ This project focuses on creating a Call Center Analytics Dashboard using Power B
 
 ## How to Use
 
-1. Download the Power BI file (`Call_Center_Analytics.pbix`) from the repository.
+1. Download the Power BI file [Link](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Call%20Center.pbix) from the repository.
 2. Open the file in Power BI Desktop to explore the interactive dashboard.
 3. Navigate through different tabs and visualizations to gain insights into call center operations.
 
 ## Project Structure
 
-- `Call_Center_Analytics.pbix`: Power BI file containing the dashboard design and data connections.
-- `dashboard_screenshot.png`: Screenshot of the dashboard for reference.
-- `README.md`: Project overview and instructions.
+- [Call_Center_Analytics.pbix](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Call%20Center.pbix): Power BI file containing the dashboard design and data connections.
+- [Dashboard_screenshot1.png](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Part-1.JPG),[Dashboard_screenshot1.png](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Part-2.JPG): Screenshot of the dashboard for reference.
+- [README.md](https://github.com/Pandat-0052/Call_Center_Analysis/edit/main/README.md): Project overview and instructions.
+- [RAW Data](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/Call-Center-Dataset_Raw_Data.xlsx): Project raw data.
 
-## Additional Notes
+## Feedback and Collaboration
 
-Feel free to customize and expand upon the dashboard as needed for specific business requirements or analytics objectives.
+We welcome your feedback and collaboration on this project. Feel free to open issues for suggestions or improvements.
+
+
